@@ -5,8 +5,8 @@ This is a PyTorch implementation of "[Graph Convolutional Networks for Graphs Co
 - pytorch
 - scikit-learn
 - networkx
-- optuna
-- tqdm
+- optuna 开源的超参数优化框架
+- tqdm 用于在命令行界面中显示进度条
 
 ## Run codes
 ### Node Classification
